@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mario Lucas [ @Kallenhard1 ]
-- 👀 I’m interested in WebDev, Technical Art and Graphics Programming
+- 👀 I’m interested in WebDev for Artificial Intelligence and 3D, Technical Art and Graphics Programming
 - 🌱 I’m currently learning VFX / Tech Art [ ShaderScripts ] for realtime simulations [ Unreal Engine/Unity ]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: marioluquinha210@gmail.com
