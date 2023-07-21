@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mario Lucas [ @Kallenhard1 ]
-- 👀 I’m interested in WebDev, Artificial Intelligence and 3D Graphics Programming.
+- 👀 I’m interested in Software Dev, Artificial Intelligence and 3D Graphics Programming.
 - 🌱 I’m currently a Backtend Developer of a mobile App.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: marioluquinha210@gmail.com
